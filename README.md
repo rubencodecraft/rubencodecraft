@@ -125,6 +125,7 @@ Let’s connect and bring your vision to life!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubencodecraft&layout=donut-vertical&theme=dark)
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Punteada Okara  (Semillas Musicales)](https://ytcards.demolab.com/?id=GkkLK_T4jdA&title=Punteada+Okara++%28Semillas+Musicales%29&lang=en&timestamp=1374594653&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Punteada Okara  (Semillas Musicales)")](https://www.youtube.com/watch?v=GkkLK_T4jdA)
 <!-- END YOUTUBE-CARDS -->
 
 
