@@ -48,6 +48,11 @@
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
+## 💻 About Me
+Hi, I'm Ruben Maidana, a Software Engineer from Paraguay 🇵🇾 with a passion for building clean, efficient, and user-focused solutions. I enjoy turning complex problems into simple, elegant code—whether it's for mobile apps, web platforms, or backend systems.
+
+I'm driven by continuous learning, solid software architecture, and real-world impact through technology.
+Currently focused on creating scalable applications and experimenting with modern tools and frameworks.
 
 🌍 Remote Full-Stack Developer & Visual Creative | Let’s Build Something Awesome Together
 Hi! I'm a multi-skilled freelancer with a passion for creating powerful digital experiences and visually compelling content. I specialize in:
@@ -119,6 +124,136 @@ Let’s connect and bring your vision to life!
 <p align="left">
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 </p>
+
+## 🚀 Tech Stack
+### Core
+- C  
+- C++  
+- C#  
+- CoffeeScript  
+- Dart  
+- Git  
+- Go  
+- Java  
+- JavaScript  
+- Kotlin  
+- Perl  
+- PHP  
+- Python  
+- R  
+- Ruby  
+- Rust  
+- Swift  
+- TypeScript
+
+### Scripting
+- GNU Bash
+
+### Code Editors
+- VS Code
+- Vim
+- Neovim
+- Sublime Text
+- XCode 
+
+### Frontend
+- HTML5
+- React
+- NextJs
+- Vue
+- NuxtJs
+- Gatsby
+- Angular
+- JQuery
+- CSS3
+- Sass
+- TailwindCSS
+- Chakra UI
+- Bootstrap
+- Material UI
+- Redux
+- Webpack
+- Babel
+- Svelte
+- Vite
+- Remix
+
+### Backend and DataBase
+- NodeJs
+- Express
+- Fast API
+- GraphQL
+- Oracle
+- NestJS
+- MongoDB
+- MySQL
+- PostgreSQL
+- Firebase
+- Appwrite
+- Heroku
+- Flask
+- Render
+- Supabase
+
+### Software
+- Photoshop
+- Illustrator
+- After Effects
+- Premiere Pro
+- XD
+- Figma
+- Sketch
+
+### Web3
+- Uniswap
+- AAVE
+- Sushiswap
+- MetaMask
+- Argent 
+- Nansen
+- Chainlink
+- The Graph
+- Ethers 
+- Web3Js
+- Alchemy
+- Hardhat
+- Truffle
+- IPFS
+- Filebase
+- Arweave
+- Ethereum
+- Polygon
+- Arbitrum
+- Avalanche
+- Near
+- Flow
+- Solana
+- Terra
+
+### Cloud
+- Google Cloud
+
+### CMS
+- Wordpress
+- Framer
+- Squarespace
+- Wix
+
+### Other
+- .NET
+- Django
+- Laravel
+- Flutter
+- AWS
+- Arduino
+- Blender
+- Digital Ocean
+- Docker
+- Linux
+- MacOS
+- PyTorch
+- Raspberry Pi
+- TensorFlow
 
 ## 💻 Different software tools and applications that you use
 ### 🤖 Artificial Intelligence and Bots
