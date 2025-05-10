@@ -78,24 +78,24 @@ Let’s connect and bring your vision to life!
 ## 💻Skills
 ### Core
 <p align="left">
-  <img src="./assets/c-colored.png" width="36" height="36" alt="C" />
-  <img src="./assets/cplusplus-colored.png" width="36" height="36" alt="C++" />
-  <img src="./assets/csharp-colored.png" width="36" height="36" alt="C#" />
-  <img src="/assets/icons/coffeescript.svg" width="36" height="36" alt="CoffeeScript" />
-  <img src="/assets/icons/dart.svg" width="36" height="36" alt="Dart" />
-  <img src="/assets/icons/git.svg" width="36" height="36" alt="Git" />
-  <img src="/assets/icons/go.svg" width="36" height="36" alt="Go" />
-  <img src="/assets/icons/java.svg" width="36" height="36" alt="Java" />
-  <img src="/assets/icons/javascript.svg" width="36" height="36" alt="JavaScript" />
-  <img src="/assets/icons/kotlin.svg" width="36" height="36" alt="Kotlin" />
-  <img src="/assets/icons/perl.svg" width="36" height="36" alt="Perl" />
-  <img src="/assets/icons/php.svg" width="36" height="36" alt="PHP" />
-  <img src="/assets/icons/python.svg" width="36" height="36" alt="Python" />
-  <img src="/assets/icons/rlang.svg" width="36" height="36" alt="R" />
-  <img src="/assets/icons/ruby.svg" width="36" height="36" alt="Ruby" />
-  <img src="/assets/icons/rust.svg" width="36" height="36" alt="Rust" />
-  <img src="/assets/icons/swift.svg" width="36" height="36" alt="Swift" />
-  <img src="/assets/icons/typescript.svg" width="36" height="36" alt="TypeScript" />
+  <img src="./assets/icons/c-colored.png" width="36" height="36" alt="C" />
+  <img src="./assets/icons/cplusplus-colored.png" width="36" height="36" alt="C++" />
+  <img src="./assets/icons/csharp-colored.png" width="36" height="36" alt="C#" />
+  <img src="./assets/icons/coffeescript-colored.png" width="36" height="36" alt="CoffeeScript" />
+  <img src="./assets/icons/dart-colored.png" width="36" height="36" alt="Dart" />
+  <img src="./assets/icons/git-colored.png" width="36" height="36" alt="Git" />
+  <img src="./assets/icons/go-colored.png" width="36" height="36" alt="Go" />
+  <img src="./assets/icons/java-colored.png" width="36" height="36" alt="Java" />
+  <img src="./assets/icons/javascript-colored.png" width="36" height="36" alt="JavaScript" />
+  <img src="./assets/icons/kotlin-colored.png" width="36" height="36" alt="Kotlin" />
+  <img src="./assets/icons/perl-colored.png" width="36" height="36" alt="Perl" />
+  <img src="./assets/icons/php-colored.png" width="36" height="36" alt="PHP" />
+  <img src="./assets/icons/python-colored.png" width="36" height="36" alt="Python" />
+  <img src="./assets/icons/rlang-colored.png" width="36" height="36" alt="R" />
+  <img src="./assets/icons/ruby-colored.png" width="36" height="36" alt="Ruby" />
+  <img src="./assets/icons/rust-colored-dark.png" width="36" height="36" alt="Rust" />
+  <img src="./assets/icons/swift-colored.png" width="36" height="36" alt="Swift" />
+  <img src="./assets/icons/typescript-colored.png" width="36" height="36" alt="TypeScript" />
 </p>
 
 
