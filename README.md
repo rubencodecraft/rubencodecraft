@@ -77,28 +77,10 @@ Let’s connect and bring your vision to life!
 
 ## 💻Skills
 ### Core
+### Skills
 <p align="left">
-  <img src="./assets/icons/c-colored.png" width="36" height="36" alt="C" />
-  <img src="./assets/icons/cplusplus-colored.png" width="36" height="36" alt="C++" />
-  <img src="./assets/icons/csharp-colored.png" width="36" height="36" alt="C#" />
-  <img src="./assets/icons/coffeescript-colored.png" width="36" height="36" alt="CoffeeScript" />
-  <img src="./assets/icons/dart-colored.png" width="36" height="36" alt="Dart" />
-  <img src="./assets/icons/git-colored.png" width="36" height="36" alt="Git" />
-  <img src="./assets/icons/go-colored.png" width="36" height="36" alt="Go" />
-  <img src="./assets/icons/java-colored.png" width="36" height="36" alt="Java" />
-  <img src="./assets/icons/javascript-colored.png" width="36" height="36" alt="JavaScript" />
-  <img src="./assets/icons/kotlin-colored.png" width="36" height="36" alt="Kotlin" />
-  <img src="./assets/icons/perl-colored.png" width="36" height="36" alt="Perl" />
-  <img src="./assets/icons/php-colored.png" width="36" height="36" alt="PHP" />
-  <img src="./assets/icons/python-colored.png" width="36" height="36" alt="Python" />
-  <img src="./assets/icons/rlang-colored.png" width="36" height="36" alt="R" />
-  <img src="./assets/icons/ruby-colored.png" width="36" height="36" alt="Ruby" />
-  <img src="./assets/icons/rust-colored-dark.png" width="36" height="36" alt="Rust" />
-  <img src="./assets/icons/swift-colored.png" width="36" height="36" alt="Swift" />
-  <img src="./assets/icons/typescript-colored.png" width="36" height="36" alt="TypeScript" />
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" width="36" height="36" alt="Coffeescript" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 </p>
-
-
 
 ### Scripting
 <p align="left">
