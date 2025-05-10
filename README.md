@@ -78,9 +78,9 @@ Let’s connect and bring your vision to life!
 ## 💻Skills
 ### Core
 <p align="left">
-  <img src="./assets/icons/c-colored.png" width="36" height="36" alt="C" />
-  <img src="/assets/icons/cplusplus.svg" width="36" height="36" alt="C++" />
-  <img src="/assets/icons/csharp.svg" width="36" height="36" alt="C#" />
+  <img src="./assets/c-colored.png" width="36" height="36" alt="C" />
+  <img src="./assets/cplusplus-colored.png" width="36" height="36" alt="C++" />
+  <img src="./assets/csharp-colored.png" width="36" height="36" alt="C#" />
   <img src="/assets/icons/coffeescript.svg" width="36" height="36" alt="CoffeeScript" />
   <img src="/assets/icons/dart.svg" width="36" height="36" alt="Dart" />
   <img src="/assets/icons/git.svg" width="36" height="36" alt="Git" />
