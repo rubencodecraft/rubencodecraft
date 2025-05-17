@@ -1,6 +1,6 @@
 # <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFxODZ6c3ZhcHEwbmJqa2ljeHNwdWh4eXE4eGN2b200MHlrbm9ucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Welcome to CodeCraft's GitHub
 
-![Banner de CodeCraft](github-header-image.png)
+![Banner de CodeCraft](github-banner.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@rubenma_dev)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
